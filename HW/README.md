@@ -7,7 +7,9 @@
 [4. Этапы работы над проектом](https://github.com/aapashk/sf_data_science/tree/main/HW/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/aapashk/sf_data_science/tree/main/HW/README.md#Результат)    
 [6. Выводы](https://github.com/aapashk/sf_data_science/tree/main/HW/README.md#Выводы)  
-[7. Папка проекта](https://github.com/aapashk/sf_data_science/tree/main/HW#Папка-проекта) 
+
+[Папка проекта](https://github.com/aapashk/sf_data_science/tree/main/HW#Папка-проекта) 
+[Код проекта](https://github.com/aapashk/sf_data_science/blob/main/HW/game_3.py#Код-проекта) 
 
 
 ### Описание проекта    
