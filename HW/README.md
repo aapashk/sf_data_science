@@ -8,7 +8,7 @@
 [5. Результат](https://github.com/aapashk/sf_data_science/tree/main/HW/README.md#Результат)    
 [6. Выводы](https://github.com/aapashk/sf_data_science/tree/main/HW/README.md#Выводы)  
 
-[Папка проекта](https://github.com/aapashk/sf_data_science/tree/main/HW#Папка-проекта) 
+[Папка проекта](https://github.com/aapashk/sf_data_science/tree/main/HW#Папка-проекта)  
 [Код проекта](https://github.com/aapashk/sf_data_science/blob/main/HW/game_3.py#Код-проекта) 
 
 
