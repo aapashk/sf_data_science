@@ -1,0 +1,6 @@
+pip freeze > requirements.txt.# фиксация версий 
+pip install -r requirements.txt. # загрузка версий
+
+git add game_v2.py game.ipynb game.py #добавление файлов в git
+
+
